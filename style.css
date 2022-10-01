@@ -4,7 +4,7 @@
     
 }
 body{
-    background-image: url('background-image.jpg');
+    background-image: url('coolbackground.jpg');
 }
 
 .headercontainer{
@@ -63,8 +63,9 @@ body{
     background: rgb(242, 255, 0);
     background-image: repeating-linear-gradient(45deg, #b0bf00 0px, #f1fc00 10px, #b19600 10px, #dede43 10px, yellow 20px);
     align-items: center;
+    background-image: url('name.jpg');
     min-width: 300px;
-    margin: 0px 246px 0px 246px;
+    margin: -20px 246px 0px 246px;
     padding: 30px;
 }
 .para{
@@ -74,6 +75,7 @@ height: 10px;
 padding: 30px;
 font-size: 20px;
 color: #fff;
+
 }
 .para2{
 background-image: linear-gradient(rgb(97, 94, 94), rgb(45, 45, 40));
@@ -86,7 +88,7 @@ float: right;
 margin-left:400px;
 color:#000;
 font-size: 30px;
-
+height: 60px;
 }
 
 .namepara{
@@ -94,4 +96,5 @@ font-size: 30px;
     margin-left: 100px;
     font-size: 36px;
     font-weight: 900;
+    margin-bottom: 20px;
 }
